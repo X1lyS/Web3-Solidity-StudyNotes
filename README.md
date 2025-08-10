@@ -5,3 +5,4 @@
 # 入门
 
 - 第一节：[第一个HelloWord程序](https://github.com/X1lyS/Web3-Solidity-StudyNotes/blob/main/0-%E5%85%A5%E9%97%A8/1-helloword.md)
+- 第二节：[变量类型-值类型](https://github.com/X1lyS/Web3-Solidity-StudyNotes/blob/main/0-%E5%85%A5%E9%97%A8/2.%E5%80%BC%E7%B1%BB%E5%9E%8B.md)
